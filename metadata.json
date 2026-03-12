@@ -1,0 +1,5 @@
+{
+  "name": "UPSA Hostel Payment",
+  "description": "A secure payment portal for UPSA student hostel bookings via Zeepay.",
+  "requestFramePermissions": []
+}
